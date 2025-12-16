@@ -9,6 +9,7 @@ from rag_agent import TedRagAgent
 load_dotenv()
 
 app = Flask(__name__)
+app.json.sort_keys = False
 CORS(app)
 
 # Initialize the RAG Agent once when the server starts
