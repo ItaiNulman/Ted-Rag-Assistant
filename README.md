@@ -34,7 +34,7 @@ Built using **Retrieval-Augmented Generation (RAG)** architecture to ensure accu
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ItaiNulman/Ted-Rag-Assistant.git](https://github.com/ItaiNulman/Ted-Rag-Assistant.git)
+    git clone https://github.com/ItaiNulman/Ted-Rag-Assistant.git
     cd Ted-Rag-Assistant
     ```
 
@@ -59,4 +59,4 @@ Built using **Retrieval-Augmented Generation (RAG)** architecture to ensure accu
 
 ### 1. Check Configuration (GET)
 ```bash
-curl [https://ted-rag-assistant-2n3c8s77p-itai-nulmans-projects.vercel.app/api/stats](https://ted-rag-assistant-2n3c8s77p-itai-nulmans-projects.vercel.app/api/stats)
+curl https://ted-rag-assistant-2n3c8s77p-itai-nulmans-projects.vercel.app/api/stats
